@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "farce",
+  "base_artist": "Keina Suda",
+  "createdAt": "2025-12-22T09:58:44.587819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Farce and Fiction",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/01_Farce_and_Fiction_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Farce",
+      "artist": "Sybyr",
+      "has_synced": true,
+      "path": "select/02_Farce_Sybyr.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "First as Tragedy, Second as Farce",
+      "artist": "Prawn",
+      "has_synced": true,
+      "path": "select/03_First_as_Tragedy,_Second_as_Farce_Prawn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pussy Money Weed A Farce Of Lil Wayne",
+      "artist": "Adult Situation",
+      "has_synced": false,
+      "path": "select/04_Pussy_Money_Weed_A_Farce_Of_Lil_Wayne_Adult_Situation.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "24 - Farce Majeure - Kiele kiele Koeweit",
+      "artist": "24 - Farce Majeure - Kiele kiele Koeweit",
+      "has_synced": false,
+      "path": "select/05_24_-_Farce_Majeure_-_Kiele_kiele_Koeweit_24_-_Farce_Majeure_-_Kiele_kiele_Koeweit.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "farce",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/06_farce_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Farce and Fiction",
+      "artist": "Napalm Death",
+      "has_synced": false,
+      "path": "select/07_Farce_and_Fiction_Napalm_Death.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Farce",
+      "artist": "Lord Folter",
+      "has_synced": false,
+      "path": "select/08_Farce_Lord_Folter.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Farce",
+      "artist": "Iron Lung",
+      "has_synced": false,
+      "path": "select/09_A_Farce_Iron_Lung.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "First as Tragedy, Second as Farce",
+      "artist": "Prawn",
+      "has_synced": true,
+      "path": "select/10_First_as_Tragedy,_Second_as_Farce_Prawn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Farce",
+      "artist": "Poema Arcanus",
+      "has_synced": false,
+      "path": "select/11_Farce_Poema_Arcanus.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FARCE",
+      "artist": "Aburadako",
+      "has_synced": false,
+      "path": "select/12_FARCE_Aburadako.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Ungovernable Farce",
+      "artist": "Conflict",
+      "has_synced": false,
+      "path": "select/13_The_Ungovernable_Farce_Conflict.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "farce",
+      "artist": "Keina Suda",
+      "has_synced": false,
+      "path": "select/14_farce_Keina_Suda.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "farce",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_farce_須田景凪.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Farce",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_02_Farce_須田景凪.txt"
+    }
+  ]
+}
